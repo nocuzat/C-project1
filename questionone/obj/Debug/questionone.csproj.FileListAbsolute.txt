@@ -1,0 +1,6 @@
+C:\Users\Thulani\Desktop\c#\questionone\questionone\bin\Debug\questionone.exe.config
+C:\Users\Thulani\Desktop\c#\questionone\questionone\bin\Debug\questionone.exe
+C:\Users\Thulani\Desktop\c#\questionone\questionone\bin\Debug\questionone.pdb
+C:\Users\Thulani\Desktop\c#\questionone\questionone\obj\Debug\questionone.csprojResolveAssemblyReference.cache
+C:\Users\Thulani\Desktop\c#\questionone\questionone\obj\Debug\questionone.exe
+C:\Users\Thulani\Desktop\c#\questionone\questionone\obj\Debug\questionone.pdb
